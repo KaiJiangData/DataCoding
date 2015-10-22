@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 sadsadasdasdasasdas
 dasdsadasd
+=======
+
+
+love usadsahdasd
+sdsad
+asdasd
+>>>>>>> 75a82cb7f7497178795f47745f2ef0d2326f4b5b
